@@ -35,9 +35,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Target.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DifficultyButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Target.cs" />
       </list>
     </option>
   </component>
@@ -82,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605865801898</updated>
       <workItem from="1605865809434" duration="7781000" />
+      <workItem from="1605875555311" duration="604000" />
     </task>
     <servers />
   </component>
@@ -100,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
